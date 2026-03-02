@@ -11,9 +11,15 @@
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kushwahsnehal) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehal-kushwah-492a70326/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehalkushwah24@gmail.com)
+<a href="https://instagram.com/kushwahsnehal" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+</a> 
+<a href="https://www.linkedin.com/in/snehal-kushwah-492a70326/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a> 
+<a href="mailto:snehalkushwah24@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -27,19 +33,18 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
 # 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=http-snehal&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Snehal's Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=http-snehal&theme=dark&show_icons=true&hide_border=false" alt="Snehal's GitHub stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=http-snehal&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=http-snehal&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-</div>
+</p>
 
 ### 🔝 Top Contributed Repo
-<div align="center">
+<p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=http-snehal&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
-</div>
+</p>
 
 ---
 <p align="center">
