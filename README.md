@@ -29,8 +29,6 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=http-snehal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=http-snehal&theme=radical&hide_border=false)<br/>
